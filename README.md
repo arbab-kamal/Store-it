@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     
-      <img src="https://github.com/arbab-kamal/Store-it/blob/main/public/Dashboard.png" alt="Project Banner">
+      ("https://github.com/arbab-kamal/Store-it/blob/main/public/Dashboard.png")
     
   <br />
 
